@@ -67,4 +67,6 @@ This repository contains Homework 5 for CS4750 Robotic Foundations, where you’
 ---
 
 ## Core Implementation
-[**PID Controller.py**](/car_controller/src/car_controller/pid.py)  
+[**PID Controller.py**](/car_controller/src/car_controller/pid.py) 
+[**Model Predictive Controller**](car_controller/src/car_controller/mpc.py)
+
