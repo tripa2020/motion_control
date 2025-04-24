@@ -55,14 +55,6 @@ This repository contains Homework 5 for CS4750 Robotic Foundations, where you’
 
 ### Arm Controller
 
-<details open>  
-<summary>Arm Control Block Diagram</summary>  
-![Arm Control SVG](control.svg)  
-*PID closed‐loop block diagram for WidowX250 joint control.* :contentReference[oaicite:13]{index=13}  
-</details>
-
-![Error in New Frame](error_new_frame.png)  
-*Visualization of position‐error components in the reference frame.* :contentReference[oaicite:14]{index=14}  
 
 ---
 
