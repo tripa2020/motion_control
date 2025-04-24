@@ -2,7 +2,7 @@
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![ROS Foxy](https://img.shields.io/badge/ROS-Foxy-green)  
 
-A set of ROS-based controllers implementing **PID pure-pursuit** and **Model-Predictive Control (MPC)** for both a MuSHR wheeled vehicle and a WidowX250 robotic arm. Includes test suites, visualization tools, and parameter tuning writeups. :contentReference[oaicite:0]{index=0}
+A set of ROS-based controllers implementing **PID pure-pursuit** and **Model-Predictive Control (MPC)** for both a MuSHR wheeled vehicle and a WidowX250 robotic arm. 
 
 ---
 
@@ -11,12 +11,7 @@ A set of ROS-based controllers implementing **PID pure-pursuit** and **Model-Pre
 - [Overview](#overview)  
 - [Features](#features)  
 - [Demos & Visuals](#demos--visuals)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Folder Structure](#folder-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
