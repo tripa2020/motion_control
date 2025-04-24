@@ -27,7 +27,7 @@ This repository contains Homework 5 for CS4750 Robotic Foundations, where you’
 
 ## Features
 
-- 📏 **BaseController**: Reference‐state lookahead & coordinate‐frame error (`get_reference_index`, `compute_position_in_frame`) :contentReference[oaicite:5]{index=5}  
+- 📏 **Computing position in frame**: Reference‐state transformation frames for error in the cars postion  
 - 🔄 **PID Controller**: Implements proportional, integral, and derivative terms for cross-track error (`PID.get_control`) :contentReference[oaicite:6]{index=6}  
 - 🚀 **MPC Controller**: Samples control sequences, rollouts with kinematic car model, and cost‐based action selection (`MPC.get_control`) :contentReference[oaicite:7]{index=7}  
 - 🧪 **Test Suites**:  
