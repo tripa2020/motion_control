@@ -65,3 +65,6 @@ This repository contains Homework 5 for CS4750 Robotic Foundations, where you’
 *Visualization of position‐error components in the reference frame.* :contentReference[oaicite:14]{index=14}  
 
 ---
+
+## Core Implementation
+[**PID Controller.py**](/car_controller/src/car_controller/pid.py)  
